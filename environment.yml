@@ -1,0 +1,11 @@
+name: env_spec
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ipykernel
+  - openpyxl
+prefix: /Users/cara/opt/miniconda3/envs/env_spec
